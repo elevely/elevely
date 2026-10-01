@@ -2,27 +2,27 @@
 
 ### Product Analyst · Data Scientist
 
-🎓 IT student at **MISIS**  
-📊 Interested in **Product Analytics, Data Science & Experimentation**  
-🐍 Python · SQL · Statistics · Machine Learning
+IT student at **MISIS**  
+Interested in **Product Analytics, Data Science & Experimentation**  
+Python · SQL · Statistics · Machine Learning
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I'm interested in using data to understand **products, users and business problems**.
 
 My main areas of interest:
 
-- 📊 Product & Data Analytics
-- 🧪 A/B Testing & Experimentation
-- 📈 Statistics & Hypothesis Testing
-- 🤖 Machine Learning
-- 🐍 Python & SQL
+- Product & Data Analytics
+- A/B Testing & Experimentation
+- Statistics & Hypothesis Testing
+- Machine Learning
+- Python & SQL
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Programming & Data
 
@@ -48,9 +48,9 @@ My main areas of interest:
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🧪 [A/B Test Analysis](https://github.com/elevely/ab-test-analysis)
+### [A/B Test Analysis](https://github.com/elevely/ab-test-analysis)
 
 Statistical analysis of an A/B experiment with **100K users**.
 
@@ -65,7 +65,7 @@ Statistical analysis of an A/B experiment with **100K users**.
 
 ---
 
-### 🛡️ [Fraud Detection](https://github.com/elevely/fraud-detection)
+### [Fraud Detection](https://github.com/elevely/fraud-detection)
 
 Machine learning project for detecting fraudulent credit card transactions.
 
@@ -75,7 +75,7 @@ Worked with an imbalanced dataset and explored approaches to fraud detection.
 
 ---
 
-### 🏦 [Banking Customer Churn Analysis](https://github.com/elevely/banking-customer-churn-analysis)
+### [Banking Customer Churn Analysis](https://github.com/elevely/banking-customer-churn-analysis)
 
 Exploratory analysis of **80K banking customers** to identify patterns associated with customer churn.
 
@@ -83,7 +83,7 @@ Exploratory analysis of **80K banking customers** to identify patterns associate
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 **Product Analytics**
 
@@ -99,7 +99,7 @@ Exploratory analysis of **80K banking customers** to identify patterns associate
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elevely&show_icons=true&theme=transparent&hide_border=true)
 
@@ -111,7 +111,3 @@ Exploratory analysis of **80K banking customers** to identify patterns associate
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/elevely)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:i@elevely.ru)
-
----
-
-⭐ Thanks for visiting my profile!
