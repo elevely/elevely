@@ -8,20 +8,6 @@ Python · SQL · Statistics · Machine Learning
 
 ---
 
-## About Me
-
-I'm interested in using data to understand **products, users and business problems**.
-
-My main areas of interest:
-
-- Product & Data Analytics
-- A/B Testing & Experimentation
-- Statistics & Hypothesis Testing
-- Machine Learning
-- Python & SQL
-
----
-
 ## Tech Stack
 
 ### Programming & Data
