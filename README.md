@@ -58,10 +58,9 @@ Machine learning project for detecting fraudulent credit card transactions.
 Worked with an imbalanced dataset and explored approaches to fraud detection.
 
 The model detected:
-
-69 of 95 fraudulent transactions;
-26 fraudulent transactions were missed;
-4 legitimate transactions were incorrectly classified as fraud.
+- 69 of 95 fraudulent transactions;
+- 26 fraudulent transactions were missed;
+- 4 legitimate transactions were incorrectly classified as fraud.
 
 `Python` `Pandas` `Scikit-learn` `Machine Learning`
 
